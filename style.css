@@ -1,0 +1,18 @@
+.converter{
+    height: 300px;
+    width: 500px;
+    margin: 0 auto;
+    margin-top: 100px;
+    background-color: aqua;
+
+}
+#calc{
+    padding: 5px 5px;
+    border-radius: 5px;
+    color: rgba(0, 0, 0, 0.815);
+    background-color: azure;
+}
+
+#amount,#type,#type2{
+    margin-bottom: 10px;
+}
